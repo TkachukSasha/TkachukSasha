@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tkachuk Sasha</h1>
-<h3 align="center">A Junior Backend Software Engineer (.NET / Angular)</h3>
+<h3 align="center">A Junior Software Engineer (.NET / Angular)</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tkachuksasha" alt="tkachuksasha" /></a> </p>
 
