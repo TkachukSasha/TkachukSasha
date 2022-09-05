@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tkachuk Sasha</h1>
-<h3 align="center">A Junior Software Engineer (.NET / Angular)</h3>
+<h3 align="center">Junior Software Engineer (.NET / Angular)</h3>
 
 - 🌱 I’m currently learning **.Net/Angular**
 
