@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tkachuk Sasha</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Engineer, Currently (Team-Lead) in medicine product company</h3>
 
-- 🌱 I’m currently learning **.Net/Angular**
+- 🌱 I’m currently working with stack -> **.Net/Vue**
 
 - 📫 How to reach me **tkachuko_09@knu.ua**
 
